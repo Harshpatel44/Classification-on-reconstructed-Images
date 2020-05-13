@@ -1,5 +1,5 @@
 <h2>Classification-on-reconstructed-Images</h2>
-<p>The project was about classifying MNIST data of low dimensions. After de-noising the images, I classified them using feedforward network and compared its performance with classification on reconstructed images using convolutional network, where the images were reconstructed using autoencoder network.</p>
+<p>The project was about classifying MNIST data of low dimensions. After de-noising the reconstructed images using auto-encoders, I classified them using convolutional network and evaluated the performance. The images were reconstructed using PCA.</p>
 
 <h3>In this notebook, We do as the following</h3>
 <p>1. Prepare the MNIST dataset</p>
