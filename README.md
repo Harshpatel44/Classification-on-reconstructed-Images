@@ -9,6 +9,9 @@
 <p>5. Train and test the denoised images on CNN model and evaluate the results.</p>
 <p>6. Now, again apply dimensionality reduction using PCA with variance=0.50 and evaluate the resuls after training with CNN model.</p>
 
+<h3>Results</h3>
+<p>Training Accuracy on PCA (variance = 0.90) = 98% </p>
+<p>Training Accuracy on PCA (variance = 0.50) = 95% </p>
 
 <h3>Developers</h3>
 <p><i>Harsh Patel</i></p>
